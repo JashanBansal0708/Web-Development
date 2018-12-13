@@ -385,6 +385,7 @@ button:hover {
   }
 }
 ```
+```
 <style>
   div {
     height: 40px;
