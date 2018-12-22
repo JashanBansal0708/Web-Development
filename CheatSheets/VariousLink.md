@@ -7,8 +7,7 @@
 ```
 <style>
   body {
-     background : url("https://i.imgur.com/MJAkxbh.png");
-  }
+     background : url("https://i.imgur.com/MJAkxbh.png
 </style>
 ```
 
@@ -16,6 +15,7 @@
 ```
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 ```
+
 # Use clip-path property easily by using:
 ```
 http://bennettfeely.com/clippy/
@@ -24,4 +24,9 @@ http://bennettfeely.com/clippy/
 # Create animations easily by using:
 ```
 https://keyframes.app/editor/
+```
+
+# Website to find the various icons
+```
+https://www.iconfinder.com
 ```
