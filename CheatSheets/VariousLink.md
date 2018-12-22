@@ -16,3 +16,12 @@
 ```
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 ```
+# Use clip-path property easily by using:
+```
+http://bennettfeely.com/clippy/
+```
+
+# Create animations easily by using:
+```
+https://keyframes.app/editor/
+```
